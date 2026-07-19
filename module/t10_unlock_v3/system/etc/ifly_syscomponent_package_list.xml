@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<iflytek-configs>
+    <package name="android" />
+    <package name="com.android.settings" />
+    <package name="com.android.systemui" />
+    <package name="com.android.providers.settings" />
+    <package name="com.android.shell" />
+    <package name="com.sprd.runtime" />
+</iflytek-configs>

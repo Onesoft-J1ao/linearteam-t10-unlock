@@ -1,0 +1,6 @@
+id=t10_unlock
+name=T10 Unlock v3
+version=v3.0
+versionCode=3
+author=linearteam
+description=Deceive iFLYTEK cloud - local unlock while server sees compliance. ADB, install whitelist, app unblock, zen mode, DNS firewall, log suppression, config override.
